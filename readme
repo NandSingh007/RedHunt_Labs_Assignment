@@ -1,4 +1,4 @@
-## question 1.--> The code aims to find the first number in a list that doesn’t repeat. If all numbers repeat, it returns null.
+# question 1.--> The code aims to find the first number in a list that doesn’t repeat. If all numbers repeat, it returns null.
 
 1. **Make a "Frequency" Object**:
 
@@ -37,23 +37,7 @@ For the list [1, 1, 4, 2, 3, 3]:
 
 ---
 
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## question 2. --> The `isValidBrackets` function checks if a string containing brackets is valid. A valid string means that every opening bracket has a corresponding closing bracket, and they are closed in the correct order.
+# question 2. --> The `isValidBrackets` function checks if a string containing brackets is valid. A valid string means that every opening bracket has a corresponding closing bracket, and they are closed in the correct order.
 
 1. **Initialize a Stack**:
 
